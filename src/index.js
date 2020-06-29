@@ -1,0 +1,1 @@
+console.log("Yay src/index.js works!")
